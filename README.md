@@ -1,13 +1,13 @@
 # topip2geo
 Gather person IP address while using skype or other p2p video chat by analyzing traffic
 
-# Dependencies (perm modules):
+# Dependencies (perl modules):
 * Net::Pcap
 * NetPacket
 * Geo::IP::PurePerl
 
 # Installation:
-`sudo apt install libnet-pcap-perl libnetpacket-perl libgeo-ip-perl cpan
+`sudo apt install libnet-pcap-perl libnetpacket-perl libgeo-ip-perl cpan`
 `sudo cpan install Geo::IP::PurePerl`
 
 # Usage:
