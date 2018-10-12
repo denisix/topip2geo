@@ -14,7 +14,7 @@ Gather person IP address while using skype or other p2p video chat by analyzing 
 # Usage:
 we need privileges to capture packets on interface wlan0:
 
-`sudo perl topip2geo.pl wlp3s0`
+`sudo perl topip2geo.pl wlan0`
 
 # Example output:
 ```$ sudo perl topip2geo.pl wlp3s0
